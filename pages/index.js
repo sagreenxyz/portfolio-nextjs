@@ -13,7 +13,7 @@ export default function Home() {
               Start
             </button>
             <div className={show ? "visible py-6 text-5xl text-orange-600" : "invisible py-6 text-5xl"}>
-              Not Yet!...  We're not quite ready.
+              Not Yet!...  We&apos;re not quite ready.
             </div>
           </div>
         </div>
